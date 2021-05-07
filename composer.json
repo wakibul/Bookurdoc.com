@@ -12,7 +12,7 @@
         "doctrine/dbal": "^2.10",
         "fideloper/proxy": "^4.0",
         "hesto/multi-auth": "^2.0",
-        "laravel/framework": "5.7.*",
+        "laravel/framework": "6.18.*",
         "laravel/tinker": "^1.0",
         "payabbhi/payabbhi-php": "^1.0",
         "tymon/jwt-auth": "dev-develop#34d8e48 as 1.0.0-rc.3.2"
